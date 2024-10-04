@@ -3,4 +3,4 @@ plugins:
   - jekyll-remote-theme
 title: PHPDepend
 description: Dependency visualization for PHP
-show_downloads: true
+show_downloads: false
