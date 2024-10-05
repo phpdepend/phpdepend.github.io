@@ -1,3 +1,5 @@
+![PHPDepend](assets/img/PHPDepend-wort.png)
+
 A toolset to visualize dependencies within a project.
 
 This is **not** a replacement for [pdepend](https://pdepend.org)!
